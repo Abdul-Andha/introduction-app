@@ -6,7 +6,7 @@ The introduction app takes user input such as first and last name, school, year,
 
 ### App Walk-though
 
-<img src="demo.gif" width=200><br>
+<img src="assets/demo.gif" width=200><br>
 
 ### Required Features
 
