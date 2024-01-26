@@ -4,7 +4,7 @@
 
 The introduction app takes user input such as first and last name, school, year, and pet information and generates an introduction message based on their input. It also features a dark mode switch which allows users to switch between light and dark mode when they choose.
 
-### App Walk-though
+### App Demo
 
 <img src="assets/demo.gif" width=200><br>
 
