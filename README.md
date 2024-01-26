@@ -1,4 +1,4 @@
-## Introduction App
+# Introduction App
 
 ### App Description
 
